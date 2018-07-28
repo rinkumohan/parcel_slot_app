@@ -1,0 +1,15 @@
+create_parcel_slot_lot 6
+park 1234 400
+park 9999 400
+park 0001 600
+park 7777 100
+park 2701 700
+park 3141 600
+leave 5 for delivery
+status
+park 333 400
+park 9999 400
+parcel_code_for_parcels_with_weight 400
+slot_numbers_for_parcels_with_weight 400
+slot_number_for_registration_number 3141
+slot_number_for_registration_number 1111
